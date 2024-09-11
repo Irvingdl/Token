@@ -1,0 +1,1274 @@
+Archivo de entrada: Files\003.html
+Archivo de salida: 003_cleaned.html
+Tiempo de procesamiento: 0.0122188 segundos
+
+Archivo de entrada: Files\004.html
+Archivo de salida: 004_cleaned.html
+Tiempo de procesamiento: 0.009929 segundos
+
+Archivo de entrada: Files\005.html
+Archivo de salida: 005_cleaned.html
+Tiempo de procesamiento: 0.0145635 segundos
+
+Archivo de entrada: Files\006.html
+Archivo de salida: 006_cleaned.html
+Tiempo de procesamiento: 0.0086098 segundos
+
+Archivo de entrada: Files\007.html
+Archivo de salida: 007_cleaned.html
+Tiempo de procesamiento: 0.0139198 segundos
+
+Archivo de entrada: Files\008.html
+Archivo de salida: 008_cleaned.html
+Tiempo de procesamiento: 0.0088804 segundos
+
+Archivo de entrada: Files\009.html
+Archivo de salida: 009_cleaned.html
+Tiempo de procesamiento: 0.0120208 segundos
+
+Archivo de entrada: Files\010.html
+Archivo de salida: 010_cleaned.html
+Tiempo de procesamiento: 0.0081214 segundos
+
+Archivo de entrada: Files\011.html
+Archivo de salida: 011_cleaned.html
+Tiempo de procesamiento: 0.0111359 segundos
+
+Archivo de entrada: Files\012.html
+Archivo de salida: 012_cleaned.html
+Tiempo de procesamiento: 0.0085211 segundos
+
+Archivo de entrada: Files\013.html
+Archivo de salida: 013_cleaned.html
+Tiempo de procesamiento: 0.0097508 segundos
+
+Archivo de entrada: Files\014.html
+Archivo de salida: 014_cleaned.html
+Tiempo de procesamiento: 0.0084884 segundos
+
+Archivo de entrada: Files\015.html
+Archivo de salida: 015_cleaned.html
+Tiempo de procesamiento: 0.007206 segundos
+
+Archivo de entrada: Files\016.html
+Archivo de salida: 016_cleaned.html
+Tiempo de procesamiento: 0.0086403 segundos
+
+Archivo de entrada: Files\017.html
+Archivo de salida: 017_cleaned.html
+Tiempo de procesamiento: 0.009355 segundos
+
+Archivo de entrada: Files\018.html
+Archivo de salida: 018_cleaned.html
+Tiempo de procesamiento: 0.0100926 segundos
+
+Archivo de entrada: Files\019.html
+Archivo de salida: 019_cleaned.html
+Tiempo de procesamiento: 0.0132991 segundos
+
+Archivo de entrada: Files\020.html
+Archivo de salida: 020_cleaned.html
+Tiempo de procesamiento: 0.0065647 segundos
+
+Archivo de entrada: Files\021.html
+Archivo de salida: 021_cleaned.html
+Tiempo de procesamiento: 0.0092902 segundos
+
+Archivo de entrada: Files\022.html
+Archivo de salida: 022_cleaned.html
+Tiempo de procesamiento: 0.014775 segundos
+
+Archivo de entrada: Files\023.html
+Archivo de salida: 023_cleaned.html
+Tiempo de procesamiento: 0.0094993 segundos
+
+Archivo de entrada: Files\024.html
+Archivo de salida: 024_cleaned.html
+Tiempo de procesamiento: 0.0083155 segundos
+
+Archivo de entrada: Files\025.html
+Archivo de salida: 025_cleaned.html
+Tiempo de procesamiento: 0.0085819 segundos
+
+Archivo de entrada: Files\026.html
+Archivo de salida: 026_cleaned.html
+Tiempo de procesamiento: 0.0094078 segundos
+
+Archivo de entrada: Files\027.html
+Archivo de salida: 027_cleaned.html
+Tiempo de procesamiento: 0.0157814 segundos
+
+Archivo de entrada: Files\028.html
+Archivo de salida: 028_cleaned.html
+Tiempo de procesamiento: 0.0104365 segundos
+
+Archivo de entrada: Files\029.html
+Archivo de salida: 029_cleaned.html
+Tiempo de procesamiento: 0.0118963 segundos
+
+Archivo de entrada: Files\030.html
+Archivo de salida: 030_cleaned.html
+Tiempo de procesamiento: 0.0085946 segundos
+
+Archivo de entrada: Files\031.html
+Archivo de salida: 031_cleaned.html
+Tiempo de procesamiento: 0.010828 segundos
+
+Archivo de entrada: Files\032.html
+Archivo de salida: 032_cleaned.html
+Tiempo de procesamiento: 0.0062708 segundos
+
+Archivo de entrada: Files\033.html
+Archivo de salida: 033_cleaned.html
+Tiempo de procesamiento: 0.0076934 segundos
+
+Archivo de entrada: Files\034.html
+Archivo de salida: 034_cleaned.html
+Tiempo de procesamiento: 0.0091438 segundos
+
+Archivo de entrada: Files\035.html
+Archivo de salida: 035_cleaned.html
+Tiempo de procesamiento: 0.0066113 segundos
+
+Archivo de entrada: Files\036.html
+Archivo de salida: 036_cleaned.html
+Tiempo de procesamiento: 0.0080992 segundos
+
+Archivo de entrada: Files\037.html
+Archivo de salida: 037_cleaned.html
+Tiempo de procesamiento: 0.0105379 segundos
+
+Archivo de entrada: Files\038.html
+Archivo de salida: 038_cleaned.html
+Tiempo de procesamiento: 0.0087688 segundos
+
+Archivo de entrada: Files\039.html
+Archivo de salida: 039_cleaned.html
+Tiempo de procesamiento: 0.0081063 segundos
+
+Archivo de entrada: Files\040.html
+Archivo de salida: 040_cleaned.html
+Tiempo de procesamiento: 0.0098922 segundos
+
+Archivo de entrada: Files\041.html
+Archivo de salida: 041_cleaned.html
+Tiempo de procesamiento: 0.0088638 segundos
+
+Archivo de entrada: Files\042.html
+Archivo de salida: 042_cleaned.html
+Tiempo de procesamiento: 0.0109324 segundos
+
+Archivo de entrada: Files\043.html
+Archivo de salida: 043_cleaned.html
+Tiempo de procesamiento: 0.0258169 segundos
+
+Archivo de entrada: Files\044.html
+Archivo de salida: 044_cleaned.html
+Tiempo de procesamiento: 0.0095216 segundos
+
+Archivo de entrada: Files\045.html
+Archivo de salida: 045_cleaned.html
+Tiempo de procesamiento: 0.0065441 segundos
+
+Archivo de entrada: Files\046.html
+Archivo de salida: 046_cleaned.html
+Tiempo de procesamiento: 0.0110542 segundos
+
+Archivo de entrada: Files\047.html
+Archivo de salida: 047_cleaned.html
+Tiempo de procesamiento: 0.0091863 segundos
+
+Archivo de entrada: Files\048.html
+Archivo de salida: 048_cleaned.html
+Tiempo de procesamiento: 0.0091545 segundos
+
+Archivo de entrada: Files\049.html
+Archivo de salida: 049_cleaned.html
+Tiempo de procesamiento: 0.0111474 segundos
+
+Archivo de entrada: Files\050.html
+Archivo de salida: 050_cleaned.html
+Tiempo de procesamiento: 0.0125513 segundos
+
+Archivo de entrada: Files\051.html
+Archivo de salida: 051_cleaned.html
+Tiempo de procesamiento: 0.0099798 segundos
+
+Archivo de entrada: Files\052.html
+Archivo de salida: 052_cleaned.html
+Tiempo de procesamiento: 0.0117507 segundos
+
+Archivo de entrada: Files\053.html
+Archivo de salida: 053_cleaned.html
+Tiempo de procesamiento: 0.0079108 segundos
+
+Archivo de entrada: Files\054.html
+Archivo de salida: 054_cleaned.html
+Tiempo de procesamiento: 0.0105535 segundos
+
+Archivo de entrada: Files\055.html
+Archivo de salida: 055_cleaned.html
+Tiempo de procesamiento: 0.0083546 segundos
+
+Archivo de entrada: Files\056.html
+Archivo de salida: 056_cleaned.html
+Tiempo de procesamiento: 0.0071228 segundos
+
+Archivo de entrada: Files\057.html
+Archivo de salida: 057_cleaned.html
+Tiempo de procesamiento: 0.008112 segundos
+
+Archivo de entrada: Files\058.html
+Archivo de salida: 058_cleaned.html
+Tiempo de procesamiento: 0.012371 segundos
+
+Archivo de entrada: Files\059.html
+Archivo de salida: 059_cleaned.html
+Tiempo de procesamiento: 0.0100496 segundos
+
+Archivo de entrada: Files\060.html
+Archivo de salida: 060_cleaned.html
+Tiempo de procesamiento: 0.0093025 segundos
+
+Archivo de entrada: Files\061.html
+Archivo de salida: 061_cleaned.html
+Tiempo de procesamiento: 0.0101789 segundos
+
+Archivo de entrada: Files\062.html
+Archivo de salida: 062_cleaned.html
+Tiempo de procesamiento: 0.0065793 segundos
+
+Archivo de entrada: Files\063.html
+Archivo de salida: 063_cleaned.html
+Tiempo de procesamiento: 0.0094116 segundos
+
+Archivo de entrada: Files\064.html
+Archivo de salida: 064_cleaned.html
+Tiempo de procesamiento: 0.0077906 segundos
+
+Archivo de entrada: Files\065.html
+Archivo de salida: 065_cleaned.html
+Tiempo de procesamiento: 0.0096321 segundos
+
+Archivo de entrada: Files\066.html
+Archivo de salida: 066_cleaned.html
+Tiempo de procesamiento: 0.0109576 segundos
+
+Archivo de entrada: Files\067.html
+Archivo de salida: 067_cleaned.html
+Tiempo de procesamiento: 0.0084059 segundos
+
+Archivo de entrada: Files\068.html
+Archivo de salida: 068_cleaned.html
+Tiempo de procesamiento: 0.0098935 segundos
+
+Archivo de entrada: Files\069.html
+Archivo de salida: 069_cleaned.html
+Tiempo de procesamiento: 0.0088602 segundos
+
+Archivo de entrada: Files\070.html
+Archivo de salida: 070_cleaned.html
+Tiempo de procesamiento: 0.008722 segundos
+
+Archivo de entrada: Files\071.html
+Archivo de salida: 071_cleaned.html
+Tiempo de procesamiento: 0.0079746 segundos
+
+Archivo de entrada: Files\072.html
+Archivo de salida: 072_cleaned.html
+Tiempo de procesamiento: 0.0078907 segundos
+
+Archivo de entrada: Files\073.html
+Archivo de salida: 073_cleaned.html
+Tiempo de procesamiento: 0.0099051 segundos
+
+Archivo de entrada: Files\074.html
+Archivo de salida: 074_cleaned.html
+Tiempo de procesamiento: 0.0109033 segundos
+
+Archivo de entrada: Files\075.html
+Archivo de salida: 075_cleaned.html
+Tiempo de procesamiento: 0.0186492 segundos
+
+Archivo de entrada: Files\076.html
+Archivo de salida: 076_cleaned.html
+Tiempo de procesamiento: 0.0137472 segundos
+
+Archivo de entrada: Files\077.html
+Archivo de salida: 077_cleaned.html
+Tiempo de procesamiento: 0.0098252 segundos
+
+Archivo de entrada: Files\078.html
+Archivo de salida: 078_cleaned.html
+Tiempo de procesamiento: 0.009119 segundos
+
+Archivo de entrada: Files\079.html
+Archivo de salida: 079_cleaned.html
+Tiempo de procesamiento: 0.0124761 segundos
+
+Archivo de entrada: Files\080.html
+Archivo de salida: 080_cleaned.html
+Tiempo de procesamiento: 0.0089945 segundos
+
+Archivo de entrada: Files\081.html
+Archivo de salida: 081_cleaned.html
+Tiempo de procesamiento: 0.0105262 segundos
+
+Archivo de entrada: Files\082.html
+Archivo de salida: 082_cleaned.html
+Tiempo de procesamiento: 0.0123523 segundos
+
+Archivo de entrada: Files\083.html
+Archivo de salida: 083_cleaned.html
+Tiempo de procesamiento: 0.0080037 segundos
+
+Archivo de entrada: Files\084.html
+Archivo de salida: 084_cleaned.html
+Tiempo de procesamiento: 0.0109009 segundos
+
+Archivo de entrada: Files\085.html
+Archivo de salida: 085_cleaned.html
+Tiempo de procesamiento: 0.0085638 segundos
+
+Archivo de entrada: Files\086.html
+Archivo de salida: 086_cleaned.html
+Tiempo de procesamiento: 0.0090566 segundos
+
+Archivo de entrada: Files\087.html
+Archivo de salida: 087_cleaned.html
+Tiempo de procesamiento: 0.0095482 segundos
+
+Archivo de entrada: Files\088.html
+Archivo de salida: 088_cleaned.html
+Tiempo de procesamiento: 0.0102821 segundos
+
+Archivo de entrada: Files\089.html
+Archivo de salida: 089_cleaned.html
+Tiempo de procesamiento: 0.0116767 segundos
+
+Archivo de entrada: Files\090.html
+Archivo de salida: 090_cleaned.html
+Tiempo de procesamiento: 0.0066498 segundos
+
+Archivo de entrada: Files\091.html
+Archivo de salida: 091_cleaned.html
+Tiempo de procesamiento: 0.0102945 segundos
+
+Archivo de entrada: Files\092.html
+Archivo de salida: 092_cleaned.html
+Tiempo de procesamiento: 0.0073089 segundos
+
+Archivo de entrada: Files\093.html
+Archivo de salida: 093_cleaned.html
+Tiempo de procesamiento: 0.0074049 segundos
+
+Archivo de entrada: Files\094.html
+Archivo de salida: 094_cleaned.html
+Tiempo de procesamiento: 0.0077788 segundos
+
+Archivo de entrada: Files\095.html
+Archivo de salida: 095_cleaned.html
+Tiempo de procesamiento: 0.0097793 segundos
+
+Archivo de entrada: Files\096.html
+Archivo de salida: 096_cleaned.html
+Tiempo de procesamiento: 0.0073749 segundos
+
+Archivo de entrada: Files\097.html
+Archivo de salida: 097_cleaned.html
+Tiempo de procesamiento: 0.008078 segundos
+
+Archivo de entrada: Files\098.html
+Archivo de salida: 098_cleaned.html
+Tiempo de procesamiento: 0.0076689 segundos
+
+Archivo de entrada: Files\099.html
+Archivo de salida: 099_cleaned.html
+Tiempo de procesamiento: 0.0114505 segundos
+
+Archivo de entrada: Files\100.html
+Archivo de salida: 100_cleaned.html
+Tiempo de procesamiento: 0.0070996 segundos
+
+Archivo de entrada: Files\101.html
+Archivo de salida: 101_cleaned.html
+Tiempo de procesamiento: 0.0107802 segundos
+
+Archivo de entrada: Files\102.html
+Archivo de salida: 102_cleaned.html
+Tiempo de procesamiento: 0.0056318 segundos
+
+Archivo de entrada: Files\103.html
+Archivo de salida: 103_cleaned.html
+Tiempo de procesamiento: 0.0086457 segundos
+
+Archivo de entrada: Files\104.html
+Archivo de salida: 104_cleaned.html
+Tiempo de procesamiento: 0.0074391 segundos
+
+Archivo de entrada: Files\105.html
+Archivo de salida: 105_cleaned.html
+Tiempo de procesamiento: 0.0097228 segundos
+
+Archivo de entrada: Files\106.html
+Archivo de salida: 106_cleaned.html
+Tiempo de procesamiento: 0.0081972 segundos
+
+Archivo de entrada: Files\107.html
+Archivo de salida: 107_cleaned.html
+Tiempo de procesamiento: 0.0080989 segundos
+
+Archivo de entrada: Files\108.html
+Archivo de salida: 108_cleaned.html
+Tiempo de procesamiento: 0.0074312 segundos
+
+Archivo de entrada: Files\109.html
+Archivo de salida: 109_cleaned.html
+Tiempo de procesamiento: 0.0087562 segundos
+
+Archivo de entrada: Files\110.html
+Archivo de salida: 110_cleaned.html
+Tiempo de procesamiento: 0.006942 segundos
+
+Archivo de entrada: Files\111.html
+Archivo de salida: 111_cleaned.html
+Tiempo de procesamiento: 0.0071502 segundos
+
+Archivo de entrada: Files\112.html
+Archivo de salida: 112_cleaned.html
+Tiempo de procesamiento: 0.0077224 segundos
+
+Archivo de entrada: Files\113.html
+Archivo de salida: 113_cleaned.html
+Tiempo de procesamiento: 0.009269 segundos
+
+Archivo de entrada: Files\114.html
+Archivo de salida: 114_cleaned.html
+Tiempo de procesamiento: 0.0089071 segundos
+
+Archivo de entrada: Files\115.html
+Archivo de salida: 115_cleaned.html
+Tiempo de procesamiento: 0.008767 segundos
+
+Archivo de entrada: Files\116.html
+Archivo de salida: 116_cleaned.html
+Tiempo de procesamiento: 0.0080568 segundos
+
+Archivo de entrada: Files\117.html
+Archivo de salida: 117_cleaned.html
+Tiempo de procesamiento: 0.009034 segundos
+
+Archivo de entrada: Files\118.html
+Archivo de salida: 118_cleaned.html
+Tiempo de procesamiento: 0.0110284 segundos
+
+Archivo de entrada: Files\119.html
+Archivo de salida: 119_cleaned.html
+Tiempo de procesamiento: 0.009609 segundos
+
+Archivo de entrada: Files\120.html
+Archivo de salida: 120_cleaned.html
+Tiempo de procesamiento: 0.0101978 segundos
+
+Archivo de entrada: Files\121.html
+Archivo de salida: 121_cleaned.html
+Tiempo de procesamiento: 0.0078639 segundos
+
+Archivo de entrada: Files\122.html
+Archivo de salida: 122_cleaned.html
+Tiempo de procesamiento: 0.0107139 segundos
+
+Archivo de entrada: Files\123.html
+Archivo de salida: 123_cleaned.html
+Tiempo de procesamiento: 0.0112406 segundos
+
+Archivo de entrada: Files\124.html
+Archivo de salida: 124_cleaned.html
+Tiempo de procesamiento: 0.0149333 segundos
+
+Archivo de entrada: Files\125.html
+Archivo de salida: 125_cleaned.html
+Tiempo de procesamiento: 0.0099927 segundos
+
+Archivo de entrada: Files\126.html
+Archivo de salida: 126_cleaned.html
+Tiempo de procesamiento: 0.0105908 segundos
+
+Archivo de entrada: Files\127.html
+Archivo de salida: 127_cleaned.html
+Tiempo de procesamiento: 0.0085417 segundos
+
+Archivo de entrada: Files\128.html
+Archivo de salida: 128_cleaned.html
+Tiempo de procesamiento: 0.0093067 segundos
+
+Archivo de entrada: Files\129.html
+Archivo de salida: 129_cleaned.html
+Tiempo de procesamiento: 0.0096263 segundos
+
+Archivo de entrada: Files\130.html
+Archivo de salida: 130_cleaned.html
+Tiempo de procesamiento: 0.0068428 segundos
+
+Archivo de entrada: Files\131.html
+Archivo de salida: 131_cleaned.html
+Tiempo de procesamiento: 0.0076958 segundos
+
+Archivo de entrada: Files\132.html
+Archivo de salida: 132_cleaned.html
+Tiempo de procesamiento: 0.0093374 segundos
+
+Archivo de entrada: Files\133.html
+Archivo de salida: 133_cleaned.html
+Tiempo de procesamiento: 0.0134629 segundos
+
+Archivo de entrada: Files\134.html
+Archivo de salida: 134_cleaned.html
+Tiempo de procesamiento: 0.0082796 segundos
+
+Archivo de entrada: Files\135.html
+Archivo de salida: 135_cleaned.html
+Tiempo de procesamiento: 0.0101412 segundos
+
+Archivo de entrada: Files\136.html
+Archivo de salida: 136_cleaned.html
+Tiempo de procesamiento: 0.0084048 segundos
+
+Archivo de entrada: Files\137.html
+Archivo de salida: 137_cleaned.html
+Tiempo de procesamiento: 0.0186461 segundos
+
+Archivo de entrada: Files\138.html
+Archivo de salida: 138_cleaned.html
+Tiempo de procesamiento: 0.0089081 segundos
+
+Archivo de entrada: Files\139.html
+Archivo de salida: 139_cleaned.html
+Tiempo de procesamiento: 0.0079756 segundos
+
+Archivo de entrada: Files\140.html
+Archivo de salida: 140_cleaned.html
+Tiempo de procesamiento: 0.0087924 segundos
+
+Archivo de entrada: Files\141.html
+Archivo de salida: 141_cleaned.html
+Tiempo de procesamiento: 0.0090985 segundos
+
+Archivo de entrada: Files\142.html
+Archivo de salida: 142_cleaned.html
+Tiempo de procesamiento: 0.009364 segundos
+
+Archivo de entrada: Files\143.html
+Archivo de salida: 143_cleaned.html
+Tiempo de procesamiento: 0.0104839 segundos
+
+Archivo de entrada: Files\144.html
+Archivo de salida: 144_cleaned.html
+Tiempo de procesamiento: 0.0081643 segundos
+
+Archivo de entrada: Files\145.html
+Archivo de salida: 145_cleaned.html
+Tiempo de procesamiento: 0.0094642 segundos
+
+Archivo de entrada: Files\146.html
+Archivo de salida: 146_cleaned.html
+Tiempo de procesamiento: 0.0113798 segundos
+
+Archivo de entrada: Files\147.html
+Archivo de salida: 147_cleaned.html
+Tiempo de procesamiento: 0.0130339 segundos
+
+Archivo de entrada: Files\148.html
+Archivo de salida: 148_cleaned.html
+Tiempo de procesamiento: 0.0079383 segundos
+
+Archivo de entrada: Files\149.html
+Archivo de salida: 149_cleaned.html
+Tiempo de procesamiento: 0.0076994 segundos
+
+Archivo de entrada: Files\150.html
+Archivo de salida: 150_cleaned.html
+Tiempo de procesamiento: 0.012221 segundos
+
+Archivo de entrada: Files\151.html
+Archivo de salida: 151_cleaned.html
+Tiempo de procesamiento: 0.0089552 segundos
+
+Archivo de entrada: Files\152.html
+Archivo de salida: 152_cleaned.html
+Tiempo de procesamiento: 0.0146407 segundos
+
+Archivo de entrada: Files\153.html
+Archivo de salida: 153_cleaned.html
+Tiempo de procesamiento: 0.0065707 segundos
+
+Archivo de entrada: Files\154.html
+Archivo de salida: 154_cleaned.html
+Tiempo de procesamiento: 0.0239906 segundos
+
+Archivo de entrada: Files\155.html
+Archivo de salida: 155_cleaned.html
+Tiempo de procesamiento: 0.0129967 segundos
+
+Archivo de entrada: Files\156.html
+Archivo de salida: 156_cleaned.html
+Tiempo de procesamiento: 0.0134313 segundos
+
+Archivo de entrada: Files\157.html
+Archivo de salida: 157_cleaned.html
+Tiempo de procesamiento: 0.0079672 segundos
+
+Archivo de entrada: Files\158.html
+Archivo de salida: 158_cleaned.html
+Tiempo de procesamiento: 0.0078206 segundos
+
+Archivo de entrada: Files\159.html
+Archivo de salida: 159_cleaned.html
+Tiempo de procesamiento: 0.0098629 segundos
+
+Archivo de entrada: Files\160.html
+Archivo de salida: 160_cleaned.html
+Tiempo de procesamiento: 0.0095618 segundos
+
+Archivo de entrada: Files\161.html
+Archivo de salida: 161_cleaned.html
+Tiempo de procesamiento: 0.0092565 segundos
+
+Archivo de entrada: Files\162.html
+Archivo de salida: 162_cleaned.html
+Tiempo de procesamiento: 0.0076288 segundos
+
+Archivo de entrada: Files\163.html
+Archivo de salida: 163_cleaned.html
+Tiempo de procesamiento: 0.0082668 segundos
+
+Archivo de entrada: Files\164.html
+Archivo de salida: 164_cleaned.html
+Tiempo de procesamiento: 0.008934 segundos
+
+Archivo de entrada: Files\165.html
+Archivo de salida: 165_cleaned.html
+Tiempo de procesamiento: 0.007622 segundos
+
+Archivo de entrada: Files\166.html
+Archivo de salida: 166_cleaned.html
+Tiempo de procesamiento: 0.0101796 segundos
+
+Archivo de entrada: Files\167.html
+Archivo de salida: 167_cleaned.html
+Tiempo de procesamiento: 0.0103167 segundos
+
+Archivo de entrada: Files\168.html
+Archivo de salida: 168_cleaned.html
+Tiempo de procesamiento: 0.007261 segundos
+
+Archivo de entrada: Files\169.html
+Archivo de salida: 169_cleaned.html
+Tiempo de procesamiento: 0.0087212 segundos
+
+Archivo de entrada: Files\170.html
+Archivo de salida: 170_cleaned.html
+Tiempo de procesamiento: 0.0082938 segundos
+
+Archivo de entrada: Files\171.html
+Archivo de salida: 171_cleaned.html
+Tiempo de procesamiento: 0.007775 segundos
+
+Archivo de entrada: Files\172.html
+Archivo de salida: 172_cleaned.html
+Tiempo de procesamiento: 0.0092187 segundos
+
+Archivo de entrada: Files\173.html
+Archivo de salida: 173_cleaned.html
+Tiempo de procesamiento: 0.0094607 segundos
+
+Archivo de entrada: Files\174.html
+Archivo de salida: 174_cleaned.html
+Tiempo de procesamiento: 0.0086872 segundos
+
+Archivo de entrada: Files\175.html
+Archivo de salida: 175_cleaned.html
+Tiempo de procesamiento: 0.0085608 segundos
+
+Archivo de entrada: Files\176.html
+Archivo de salida: 176_cleaned.html
+Tiempo de procesamiento: 0.0166288 segundos
+
+Archivo de entrada: Files\177.html
+Archivo de salida: 177_cleaned.html
+Tiempo de procesamiento: 0.0089689 segundos
+
+Archivo de entrada: Files\178.html
+Archivo de salida: 178_cleaned.html
+Tiempo de procesamiento: 0.0085339 segundos
+
+Archivo de entrada: Files\179.html
+Archivo de salida: 179_cleaned.html
+Tiempo de procesamiento: 0.0120721 segundos
+
+Archivo de entrada: Files\180.html
+Archivo de salida: 180_cleaned.html
+Tiempo de procesamiento: 0.008865 segundos
+
+Archivo de entrada: Files\181.html
+Archivo de salida: 181_cleaned.html
+Tiempo de procesamiento: 0.0144155 segundos
+
+Archivo de entrada: Files\182.html
+Archivo de salida: 182_cleaned.html
+Tiempo de procesamiento: 0.0084043 segundos
+
+Archivo de entrada: Files\183.html
+Archivo de salida: 183_cleaned.html
+Tiempo de procesamiento: 0.0152673 segundos
+
+Archivo de entrada: Files\184.html
+Archivo de salida: 184_cleaned.html
+Tiempo de procesamiento: 0.0104651 segundos
+
+Archivo de entrada: Files\185.html
+Archivo de salida: 185_cleaned.html
+Tiempo de procesamiento: 0.0087942 segundos
+
+Archivo de entrada: Files\186.html
+Archivo de salida: 186_cleaned.html
+Tiempo de procesamiento: 0.0071853 segundos
+
+Archivo de entrada: Files\187.html
+Archivo de salida: 187_cleaned.html
+Tiempo de procesamiento: 0.0082402 segundos
+
+Archivo de entrada: Files\188.html
+Archivo de salida: 188_cleaned.html
+Tiempo de procesamiento: 0.0079027 segundos
+
+Archivo de entrada: Files\189.html
+Archivo de salida: 189_cleaned.html
+Tiempo de procesamiento: 0.0107655 segundos
+
+Archivo de entrada: Files\190.html
+Archivo de salida: 190_cleaned.html
+Tiempo de procesamiento: 0.0078683 segundos
+
+Archivo de entrada: Files\191.html
+Archivo de salida: 191_cleaned.html
+Tiempo de procesamiento: 0.0097587 segundos
+
+Archivo de entrada: Files\192.html
+Archivo de salida: 192_cleaned.html
+Tiempo de procesamiento: 0.0098735 segundos
+
+Archivo de entrada: Files\193.html
+Archivo de salida: 193_cleaned.html
+Tiempo de procesamiento: 0.0159267 segundos
+
+Archivo de entrada: Files\194.html
+Archivo de salida: 194_cleaned.html
+Tiempo de procesamiento: 0.0129892 segundos
+
+Archivo de entrada: Files\195.html
+Archivo de salida: 195_cleaned.html
+Tiempo de procesamiento: 0.0084507 segundos
+
+Archivo de entrada: Files\196.html
+Archivo de salida: 196_cleaned.html
+Tiempo de procesamiento: 0.0071852 segundos
+
+Archivo de entrada: Files\197.html
+Archivo de salida: 197_cleaned.html
+Tiempo de procesamiento: 0.0088015 segundos
+
+Archivo de entrada: Files\198.html
+Archivo de salida: 198_cleaned.html
+Tiempo de procesamiento: 0.0068688 segundos
+
+Archivo de entrada: Files\199.html
+Archivo de salida: 199_cleaned.html
+Tiempo de procesamiento: 0.0085185 segundos
+
+Archivo de entrada: Files\200.html
+Archivo de salida: 200_cleaned.html
+Tiempo de procesamiento: 0.007082 segundos
+
+Archivo de entrada: Files\201.html
+Archivo de salida: 201_cleaned.html
+Tiempo de procesamiento: 0.0070144 segundos
+
+Archivo de entrada: Files\202.html
+Archivo de salida: 202_cleaned.html
+Tiempo de procesamiento: 0.0105742 segundos
+
+Archivo de entrada: Files\203.html
+Archivo de salida: 203_cleaned.html
+Tiempo de procesamiento: 0.015848 segundos
+
+Archivo de entrada: Files\204.html
+Archivo de salida: 204_cleaned.html
+Tiempo de procesamiento: 0.0093945 segundos
+
+Archivo de entrada: Files\205.html
+Archivo de salida: 205_cleaned.html
+Tiempo de procesamiento: 0.0094378 segundos
+
+Archivo de entrada: Files\206.html
+Archivo de salida: 206_cleaned.html
+Tiempo de procesamiento: 0.008214 segundos
+
+Archivo de entrada: Files\207.html
+Archivo de salida: 207_cleaned.html
+Tiempo de procesamiento: 0.0102855 segundos
+
+Archivo de entrada: Files\208.html
+Archivo de salida: 208_cleaned.html
+Tiempo de procesamiento: 0.0073693 segundos
+
+Archivo de entrada: Files\209.html
+Archivo de salida: 209_cleaned.html
+Tiempo de procesamiento: 0.0081148 segundos
+
+Archivo de entrada: Files\210.html
+Archivo de salida: 210_cleaned.html
+Tiempo de procesamiento: 0.0083116 segundos
+
+Archivo de entrada: Files\211.html
+Archivo de salida: 211_cleaned.html
+Tiempo de procesamiento: 0.0068292 segundos
+
+Archivo de entrada: Files\212.html
+Archivo de salida: 212_cleaned.html
+Tiempo de procesamiento: 0.0083359 segundos
+
+Archivo de entrada: Files\213.html
+Archivo de salida: 213_cleaned.html
+Tiempo de procesamiento: 0.0240452 segundos
+
+Archivo de entrada: Files\214.html
+Archivo de salida: 214_cleaned.html
+Tiempo de procesamiento: 0.0084792 segundos
+
+Archivo de entrada: Files\215.html
+Archivo de salida: 215_cleaned.html
+Tiempo de procesamiento: 0.0101186 segundos
+
+Archivo de entrada: Files\216.html
+Archivo de salida: 216_cleaned.html
+Tiempo de procesamiento: 0.0068564 segundos
+
+Archivo de entrada: Files\217.html
+Archivo de salida: 217_cleaned.html
+Tiempo de procesamiento: 0.0077551 segundos
+
+Archivo de entrada: Files\218.html
+Archivo de salida: 218_cleaned.html
+Tiempo de procesamiento: 0.0062905 segundos
+
+Archivo de entrada: Files\219.html
+Archivo de salida: 219_cleaned.html
+Tiempo de procesamiento: 0.0081653 segundos
+
+Archivo de entrada: Files\220.html
+Archivo de salida: 220_cleaned.html
+Tiempo de procesamiento: 0.0076964 segundos
+
+Archivo de entrada: Files\221.html
+Archivo de salida: 221_cleaned.html
+Tiempo de procesamiento: 0.0068517 segundos
+
+Archivo de entrada: Files\222.html
+Archivo de salida: 222_cleaned.html
+Tiempo de procesamiento: 0.009442 segundos
+
+Archivo de entrada: Files\223.html
+Archivo de salida: 223_cleaned.html
+Tiempo de procesamiento: 0.0095391 segundos
+
+Archivo de entrada: Files\224.html
+Archivo de salida: 224_cleaned.html
+Tiempo de procesamiento: 0.0090867 segundos
+
+Archivo de entrada: Files\225.html
+Archivo de salida: 225_cleaned.html
+Tiempo de procesamiento: 0.0083271 segundos
+
+Archivo de entrada: Files\226.html
+Archivo de salida: 226_cleaned.html
+Tiempo de procesamiento: 0.0096423 segundos
+
+Archivo de entrada: Files\227.html
+Archivo de salida: 227_cleaned.html
+Tiempo de procesamiento: 0.0074961 segundos
+
+Archivo de entrada: Files\228.html
+Archivo de salida: 228_cleaned.html
+Tiempo de procesamiento: 0.0065571 segundos
+
+Archivo de entrada: Files\229.html
+Archivo de salida: 229_cleaned.html
+Tiempo de procesamiento: 0.0086748 segundos
+
+Archivo de entrada: Files\230.html
+Archivo de salida: 230_cleaned.html
+Tiempo de procesamiento: 0.007777 segundos
+
+Archivo de entrada: Files\231.html
+Archivo de salida: 231_cleaned.html
+Tiempo de procesamiento: 0.0078154 segundos
+
+Archivo de entrada: Files\232.html
+Archivo de salida: 232_cleaned.html
+Tiempo de procesamiento: 0.0099026 segundos
+
+Archivo de entrada: Files\233.html
+Archivo de salida: 233_cleaned.html
+Tiempo de procesamiento: 0.0117069 segundos
+
+Archivo de entrada: Files\234.html
+Archivo de salida: 234_cleaned.html
+Tiempo de procesamiento: 0.0136468 segundos
+
+Archivo de entrada: Files\235.html
+Archivo de salida: 235_cleaned.html
+Tiempo de procesamiento: 0.0126839 segundos
+
+Archivo de entrada: Files\236.html
+Archivo de salida: 236_cleaned.html
+Tiempo de procesamiento: 0.0100302 segundos
+
+Archivo de entrada: Files\237.html
+Archivo de salida: 237_cleaned.html
+Tiempo de procesamiento: 0.010149 segundos
+
+Archivo de entrada: Files\238.html
+Archivo de salida: 238_cleaned.html
+Tiempo de procesamiento: 0.0099618 segundos
+
+Archivo de entrada: Files\239.html
+Archivo de salida: 239_cleaned.html
+Tiempo de procesamiento: 0.0100679 segundos
+
+Archivo de entrada: Files\240.html
+Archivo de salida: 240_cleaned.html
+Tiempo de procesamiento: 0.0139433 segundos
+
+Archivo de entrada: Files\241.html
+Archivo de salida: 241_cleaned.html
+Tiempo de procesamiento: 0.0111074 segundos
+
+Archivo de entrada: Files\242.html
+Archivo de salida: 242_cleaned.html
+Tiempo de procesamiento: 0.0110154 segundos
+
+Archivo de entrada: Files\243.html
+Archivo de salida: 243_cleaned.html
+Tiempo de procesamiento: 0.0156982 segundos
+
+Archivo de entrada: Files\244.html
+Archivo de salida: 244_cleaned.html
+Tiempo de procesamiento: 0.0138934 segundos
+
+Archivo de entrada: Files\245.html
+Archivo de salida: 245_cleaned.html
+Tiempo de procesamiento: 0.0114089 segundos
+
+Archivo de entrada: Files\246.html
+Archivo de salida: 246_cleaned.html
+Tiempo de procesamiento: 0.0121748 segundos
+
+Archivo de entrada: Files\247.html
+Archivo de salida: 247_cleaned.html
+Tiempo de procesamiento: 0.013323 segundos
+
+Archivo de entrada: Files\248.html
+Archivo de salida: 248_cleaned.html
+Tiempo de procesamiento: 0.0104059 segundos
+
+Archivo de entrada: Files\249.html
+Archivo de salida: 249_cleaned.html
+Tiempo de procesamiento: 0.0187995 segundos
+
+Archivo de entrada: Files\250.html
+Archivo de salida: 250_cleaned.html
+Tiempo de procesamiento: 0.0112546 segundos
+
+Archivo de entrada: Files\251.html
+Archivo de salida: 251_cleaned.html
+Tiempo de procesamiento: 0.0106298 segundos
+
+Archivo de entrada: Files\252.html
+Archivo de salida: 252_cleaned.html
+Tiempo de procesamiento: 0.0128008 segundos
+
+Archivo de entrada: Files\253.html
+Archivo de salida: 253_cleaned.html
+Tiempo de procesamiento: 0.0098113 segundos
+
+Archivo de entrada: Files\254.html
+Archivo de salida: 254_cleaned.html
+Tiempo de procesamiento: 0.0108477 segundos
+
+Archivo de entrada: Files\255.html
+Archivo de salida: 255_cleaned.html
+Tiempo de procesamiento: 0.0123666 segundos
+
+Archivo de entrada: Files\256.html
+Archivo de salida: 256_cleaned.html
+Tiempo de procesamiento: 0.0143485 segundos
+
+Archivo de entrada: Files\257.html
+Archivo de salida: 257_cleaned.html
+Tiempo de procesamiento: 0.0110483 segundos
+
+Archivo de entrada: Files\258.html
+Archivo de salida: 258_cleaned.html
+Tiempo de procesamiento: 0.0130979 segundos
+
+Archivo de entrada: Files\259.html
+Archivo de salida: 259_cleaned.html
+Tiempo de procesamiento: 0.010382 segundos
+
+Archivo de entrada: Files\260.html
+Archivo de salida: 260_cleaned.html
+Tiempo de procesamiento: 0.0143857 segundos
+
+Archivo de entrada: Files\261.html
+Archivo de salida: 261_cleaned.html
+Tiempo de procesamiento: 0.0103234 segundos
+
+Archivo de entrada: Files\262.html
+Archivo de salida: 262_cleaned.html
+Tiempo de procesamiento: 0.0091168 segundos
+
+Archivo de entrada: Files\263.html
+Archivo de salida: 263_cleaned.html
+Tiempo de procesamiento: 0.010927 segundos
+
+Archivo de entrada: Files\264.html
+Archivo de salida: 264_cleaned.html
+Tiempo de procesamiento: 0.0103868 segundos
+
+Archivo de entrada: Files\265.html
+Archivo de salida: 265_cleaned.html
+Tiempo de procesamiento: 0.0093556 segundos
+
+Archivo de entrada: Files\266.html
+Archivo de salida: 266_cleaned.html
+Tiempo de procesamiento: 0.0127709 segundos
+
+Archivo de entrada: Files\267.html
+Archivo de salida: 267_cleaned.html
+Tiempo de procesamiento: 0.0129174 segundos
+
+Archivo de entrada: Files\268.html
+Archivo de salida: 268_cleaned.html
+Tiempo de procesamiento: 0.0086983 segundos
+
+Archivo de entrada: Files\269.html
+Archivo de salida: 269_cleaned.html
+Tiempo de procesamiento: 0.017229 segundos
+
+Archivo de entrada: Files\270.html
+Archivo de salida: 270_cleaned.html
+Tiempo de procesamiento: 0.0116157 segundos
+
+Archivo de entrada: Files\271.html
+Archivo de salida: 271_cleaned.html
+Tiempo de procesamiento: 0.0096419 segundos
+
+Archivo de entrada: Files\272.html
+Archivo de salida: 272_cleaned.html
+Tiempo de procesamiento: 0.0124155 segundos
+
+Archivo de entrada: Files\273.html
+Archivo de salida: 273_cleaned.html
+Tiempo de procesamiento: 0.0120197 segundos
+
+Archivo de entrada: Files\274.html
+Archivo de salida: 274_cleaned.html
+Tiempo de procesamiento: 0.0117508 segundos
+
+Archivo de entrada: Files\275.html
+Archivo de salida: 275_cleaned.html
+Tiempo de procesamiento: 0.0099817 segundos
+
+Archivo de entrada: Files\276.html
+Archivo de salida: 276_cleaned.html
+Tiempo de procesamiento: 0.0114782 segundos
+
+Archivo de entrada: Files\277.html
+Archivo de salida: 277_cleaned.html
+Tiempo de procesamiento: 0.0121757 segundos
+
+Archivo de entrada: Files\278.html
+Archivo de salida: 278_cleaned.html
+Tiempo de procesamiento: 0.0097213 segundos
+
+Archivo de entrada: Files\279.html
+Archivo de salida: 279_cleaned.html
+Tiempo de procesamiento: 0.0169116 segundos
+
+Archivo de entrada: Files\280.html
+Archivo de salida: 280_cleaned.html
+Tiempo de procesamiento: 0.0149033 segundos
+
+Archivo de entrada: Files\281.html
+Archivo de salida: 281_cleaned.html
+Tiempo de procesamiento: 0.016472 segundos
+
+Archivo de entrada: Files\282.html
+Archivo de salida: 282_cleaned.html
+Tiempo de procesamiento: 0.0169464 segundos
+
+Archivo de entrada: Files\283.html
+Archivo de salida: 283_cleaned.html
+Tiempo de procesamiento: 0.0122281 segundos
+
+Archivo de entrada: Files\284.html
+Archivo de salida: 284_cleaned.html
+Tiempo de procesamiento: 0.011484 segundos
+
+Archivo de entrada: Files\285.html
+Archivo de salida: 285_cleaned.html
+Tiempo de procesamiento: 0.0124676 segundos
+
+Archivo de entrada: Files\286.html
+Archivo de salida: 286_cleaned.html
+Tiempo de procesamiento: 0.0132446 segundos
+
+Archivo de entrada: Files\287.html
+Archivo de salida: 287_cleaned.html
+Tiempo de procesamiento: 0.0130191 segundos
+
+Archivo de entrada: Files\288.html
+Archivo de salida: 288_cleaned.html
+Tiempo de procesamiento: 0.0097481 segundos
+
+Archivo de entrada: Files\289.html
+Archivo de salida: 289_cleaned.html
+Tiempo de procesamiento: 0.0181045 segundos
+
+Archivo de entrada: Files\290.html
+Archivo de salida: 290_cleaned.html
+Tiempo de procesamiento: 0.0105693 segundos
+
+Archivo de entrada: Files\291.html
+Archivo de salida: 291_cleaned.html
+Tiempo de procesamiento: 0.0113601 segundos
+
+Archivo de entrada: Files\292.html
+Archivo de salida: 292_cleaned.html
+Tiempo de procesamiento: 0.014589 segundos
+
+Archivo de entrada: Files\293.html
+Archivo de salida: 293_cleaned.html
+Tiempo de procesamiento: 0.00898 segundos
+
+Archivo de entrada: Files\294.html
+Archivo de salida: 294_cleaned.html
+Tiempo de procesamiento: 0.0114848 segundos
+
+Archivo de entrada: Files\295.html
+Archivo de salida: 295_cleaned.html
+Tiempo de procesamiento: 0.0118587 segundos
+
+Archivo de entrada: Files\296.html
+Archivo de salida: 296_cleaned.html
+Tiempo de procesamiento: 0.0088709 segundos
+
+Archivo de entrada: Files\297.html
+Archivo de salida: 297_cleaned.html
+Tiempo de procesamiento: 0.0097011 segundos
+
+Archivo de entrada: Files\298.html
+Archivo de salida: 298_cleaned.html
+Tiempo de procesamiento: 0.0169659 segundos
+
+Archivo de entrada: Files\299.html
+Archivo de salida: 299_cleaned.html
+Tiempo de procesamiento: 0.0126009 segundos
+
+Archivo de entrada: Files\300.html
+Archivo de salida: 300_cleaned.html
+Tiempo de procesamiento: 0.0096837 segundos
+
+Archivo de entrada: Files\301.html
+Archivo de salida: 301_cleaned.html
+Tiempo de procesamiento: 0.0116942 segundos
+
+Archivo de entrada: Files\302.html
+Archivo de salida: 302_cleaned.html
+Tiempo de procesamiento: 0.0090546 segundos
+
+Archivo de entrada: Files\303.html
+Archivo de salida: 303_cleaned.html
+Tiempo de procesamiento: 0.0162099 segundos
+
+Archivo de entrada: Files\304.html
+Archivo de salida: 304_cleaned.html
+Tiempo de procesamiento: 0.0159306 segundos
+
+Archivo de entrada: Files\305.html
+Archivo de salida: 305_cleaned.html
+Tiempo de procesamiento: 0.0085782 segundos
+
+Archivo de entrada: Files\306.html
+Archivo de salida: 306_cleaned.html
+Tiempo de procesamiento: 0.0090973 segundos
+
+Archivo de entrada: Files\307.html
+Archivo de salida: 307_cleaned.html
+Tiempo de procesamiento: 0.0150777 segundos
+
+Archivo de entrada: Files\308.html
+Archivo de salida: 308_cleaned.html
+Tiempo de procesamiento: 0.0131756 segundos
+
+Archivo de entrada: Files\309.html
+Archivo de salida: 309_cleaned.html
+Tiempo de procesamiento: 0.0144758 segundos
+
+Archivo de entrada: Files\310.html
+Archivo de salida: 310_cleaned.html
+Tiempo de procesamiento: 0.0108143 segundos
+
+Archivo de entrada: Files\311.html
+Archivo de salida: 311_cleaned.html
+Tiempo de procesamiento: 0.010557 segundos
+
+Archivo de entrada: Files\312.html
+Archivo de salida: 312_cleaned.html
+Tiempo de procesamiento: 0.0084402 segundos
+
+Archivo de entrada: Files\313.html
+Archivo de salida: 313_cleaned.html
+Tiempo de procesamiento: 0.0101995 segundos
+
+Archivo de entrada: Files\314.html
+Archivo de salida: 314_cleaned.html
+Tiempo de procesamiento: 0.0090154 segundos
+
+Archivo de entrada: Files\315.html
+Archivo de salida: 315_cleaned.html
+Tiempo de procesamiento: 0.0107596 segundos
+
+Archivo de entrada: Files\316.html
+Archivo de salida: 316_cleaned.html
+Tiempo de procesamiento: 0.0106141 segundos
+
+Archivo de entrada: Files\317.html
+Archivo de salida: 317_cleaned.html
+Tiempo de procesamiento: 0.0094484 segundos
+
+Archivo de entrada: Files\318.html
+Archivo de salida: 318_cleaned.html
+Tiempo de procesamiento: 0.0111059 segundos
+
+Archivo de entrada: Files\319.html
+Archivo de salida: 319_cleaned.html
+Tiempo de procesamiento: 0.0101758 segundos
+
+Archivo de entrada: Files\320.html
+Archivo de salida: 320_cleaned.html
+Tiempo de procesamiento: 0.0106117 segundos
+
+Archivo de entrada: Files\321.html
+Archivo de salida: 321_cleaned.html
